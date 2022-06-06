@@ -21,3 +21,5 @@ https://github.com/ergrelet/resym
 
 https://github.com/nickvourd/COM-Hunter
 
+https://github.com/runestubbe/Crinkler
+
