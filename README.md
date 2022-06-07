@@ -23,3 +23,5 @@ https://github.com/nickvourd/COM-Hunter
 
 https://github.com/runestubbe/Crinkler
 
+https://github.com/microsoft/WinDbg-Samples
+
