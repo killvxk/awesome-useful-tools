@@ -27,3 +27,7 @@ https://github.com/microsoft/WinDbg-Samples
 
 https://github.com/hkx3upper/FOKS-TROT
 
+https://github.com/ergo720/lib86cpu
+
+https://github.com/gmh5225/LLVMIR2OBJ
+
