@@ -31,3 +31,5 @@ https://github.com/ergo720/lib86cpu
 
 https://github.com/gmh5225/LLVMIR2OBJ
 
+https://github.com/th3k3ymak3r/minbeacon
+
