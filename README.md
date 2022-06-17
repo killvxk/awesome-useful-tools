@@ -45,4 +45,7 @@ https://gitlab.com/thesw4rm/nfqueue_c2
 
 https://github.com/sensity-ai/dot
 
+https://github.com/pandasec888/taowu-cobalt-strike
+
+
 
