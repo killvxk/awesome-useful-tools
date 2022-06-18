@@ -47,5 +47,7 @@ https://github.com/sensity-ai/dot
 
 https://github.com/pandasec888/taowu-cobalt-strike
 
+https://github.com/iammaguire/Salient-Rootkit
+
 
 
