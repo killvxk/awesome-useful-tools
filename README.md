@@ -53,5 +53,6 @@ https://github.com/ggerganov/imtui
 
 https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry
 
+https://github.com/chvancooten/follina.py
 
 
