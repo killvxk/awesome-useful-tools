@@ -51,5 +51,7 @@ https://github.com/iammaguire/Salient-Rootkit
 
 https://github.com/ggerganov/imtui
 
+https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry
+
 
 
