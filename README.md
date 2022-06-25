@@ -3,6 +3,8 @@ red or blue
 
 # tools
 
+https://codeql.github.com/docs/codeql-overview/
+
 https://github.com/helpsystems/nanodump
 
 https://github.com/0vercl0k/rp
