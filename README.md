@@ -59,4 +59,5 @@ https://github.com/chvancooten/follina.py
 
 https://github.com/huoji120/goodeye
 
+https://github.com/fufesou/RustDeskIddDriver
 
