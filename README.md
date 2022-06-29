@@ -61,3 +61,8 @@ https://github.com/huoji120/goodeye
 
 https://github.com/fufesou/RustDeskIddDriver
 
+https://github.com/optiv/Mangle
+
+https://github.com/therealsaumil/emux
+
+https://github.com/liamg/dismember
