@@ -85,3 +85,6 @@ https://github.com/killvxk/PSBits
 
 https://github.com/veo/wsMemShell
 
+https://github.com/Anonym0ose/JitDumper
+
+
