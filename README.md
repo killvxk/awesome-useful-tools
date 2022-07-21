@@ -89,3 +89,5 @@ https://github.com/Anonym0ose/JitDumper
 
 https://github.com/wikiZ/RedGuard
 
+https://github.com/CervantesSec/cervantes
+
