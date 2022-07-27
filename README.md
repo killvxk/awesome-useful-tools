@@ -95,3 +95,5 @@ https://github.com/jonomango/frong
 
 https://github.com/codewhitesec/Lastenzug
 
+https://github.com/0xFay/python_RPC_Fuzzer
+
