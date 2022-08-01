@@ -101,3 +101,21 @@ https://github.com/mgeeky/ProtectMyTooling
 
 https://github.com/luca364/rust-stealer
 
+https://git.back.engineering/gmh5225/Detection-CheatEngine
+
+https://git.back.engineering/vmp3/vmdevirt
+
+https://git.back.engineering/gmh5225/Tool-DIYSystemMemoryDump
+
+https://git.back.engineering/_xeroxz/Theodosius
+
+https://git.back.engineering/_xeroxz/bluepill
+
+https://git.back.engineering/_xeroxz/Voyager
+
+https://git.back.engineering/vmp3/vmdevirt
+
+https://git.back.engineering/vmp3/vmemu
+
+https://git.back.engineering/vmp3/vmprofiler
+
