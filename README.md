@@ -103,7 +103,7 @@ https://github.com/luca364/rust-stealer
 
 https://git.back.engineering/gmh5225/Detection-CheatEngine
 
-https://git.back.engineering/vmp3/vmdevirt
+https://git.back.engineering/vmp2/vmdevirt
 
 https://git.back.engineering/gmh5225/Tool-DIYSystemMemoryDump
 
@@ -118,4 +118,6 @@ https://git.back.engineering/vmp3/vmdevirt
 https://git.back.engineering/vmp3/vmemu
 
 https://git.back.engineering/vmp3/vmprofiler
+
+https://github.com/hexck/Hex-Virtualization
 
