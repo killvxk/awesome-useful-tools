@@ -121,3 +121,5 @@ https://git.back.engineering/vmp3/vmprofiler
 
 https://github.com/hexck/Hex-Virtualization
 
+https://github.com/MahmoudZohdy/IAT-Obfuscation
+
