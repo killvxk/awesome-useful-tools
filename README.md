@@ -123,3 +123,5 @@ https://github.com/hexck/Hex-Virtualization
 
 https://github.com/MahmoudZohdy/IAT-Obfuscation
 
+https://github.com/DavidBuchanan314/monomorph
+
