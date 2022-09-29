@@ -125,3 +125,4 @@ https://github.com/MahmoudZohdy/IAT-Obfuscation
 
 https://github.com/DavidBuchanan314/monomorph
 
+https://github.com/burrowers/garble
