@@ -126,3 +126,11 @@ https://github.com/MahmoudZohdy/IAT-Obfuscation
 https://github.com/DavidBuchanan314/monomorph
 
 https://github.com/burrowers/garble
+
+https://github.com/jzimmerman/langcc
+
+https://github.com/codewhitesec/Lastenzug
+
+https://github.com/luoyesiqiu/dpt-shell
+
+
