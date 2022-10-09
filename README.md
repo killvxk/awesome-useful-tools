@@ -147,3 +147,5 @@ https://github.com/outflanknl/Recon-AD
 
 https://github.com/sairson/Yasso
 
+https://github.com/Amzza0x00/go-impacket
+
