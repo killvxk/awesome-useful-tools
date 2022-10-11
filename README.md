@@ -149,3 +149,5 @@ https://github.com/sairson/Yasso
 
 https://github.com/Amzza0x00/go-impacket
 
+https://github.com/Dec0ne/ShadowSpray
+
