@@ -153,3 +153,5 @@ https://github.com/Dec0ne/ShadowSpray
 
 https://github.com/P-p-H-d/mlib
 
+https://github.com/projectdiscovery/nuclei
+
