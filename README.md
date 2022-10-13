@@ -163,3 +163,25 @@ https://github.com/MiroKaku/libwsk
 
 https://github.com/gtworek/PSBits
 
+https://github.com/MiroKaku/Veil
+
+https://github.com/MeeSong/KTL
+
+https://github.com/MeeSong/MBox
+
+https://github.com/Souhardya/Slavyana
+
+## old things
+
+https://github.com/Darkabode/zerokit
+
+https://github.com/Darkabode/amte
+
+https://github.com/Darkabode/possessor
+
+https://github.com/Darkabode/0ctrl
+
+https://github.com/Darkabode/android-possessor
+
+https://github.com/Darkabode/0lib
+
