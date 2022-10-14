@@ -171,6 +171,10 @@ https://github.com/MeeSong/MBox
 
 https://github.com/Souhardya/Slavyana
 
+https://github.com/HyperDbg/HyperDbg
+
+https://github.com/HyperDbg/gui
+
 ## old things
 
 https://github.com/Darkabode/zerokit
