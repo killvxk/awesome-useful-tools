@@ -99,8 +99,6 @@ https://github.com/0xFay/python_RPC_Fuzzer
 
 https://github.com/mgeeky/ProtectMyTooling
 
-https://github.com/luca364/rust-stealer
-
 https://git.back.engineering/gmh5225/Detection-CheatEngine
 
 https://git.back.engineering/vmp2/vmdevirt
