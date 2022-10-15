@@ -189,8 +189,11 @@ https://github.com/Darkabode/android-possessor
 
 https://github.com/Darkabode/0lib
 
+## haha
+
 https://github.com/WBGlIl/ReBeacon_Src
 
 https://github.com/hfiref0x/UACME
 
+https://github.com/A-Normal-User/NtSocket_NtClient_NtServer
 
