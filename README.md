@@ -201,5 +201,8 @@ https://github.com/MaorSabag/SideLoadingDLL
 
 https://github.com/bugch3ck/SharpEfsPotato
 
+https://github.com/cube0x0/YubiKey-Relay
+
+https://github.com/cube0x0/SharpSystemTriggers
 
 
