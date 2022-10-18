@@ -205,4 +205,6 @@ https://github.com/cube0x0/YubiKey-Relay
 
 https://github.com/cube0x0/SharpSystemTriggers
 
+https://github.com/OPENCYBER-FR/RustHound
+
 
