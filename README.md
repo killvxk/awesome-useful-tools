@@ -209,3 +209,5 @@ https://github.com/OPENCYBER-FR/RustHound
 
 https://github.com/jedisct1/charm
 
+https://github.com/orca-eaa5a/mac-defender
+
