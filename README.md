@@ -211,3 +211,4 @@ https://github.com/jedisct1/charm
 
 https://github.com/orca-eaa5a/mac-defender
 
+https://github.com/Cracked5pider/ShellcodeTemplate
