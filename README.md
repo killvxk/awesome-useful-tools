@@ -215,3 +215,5 @@ https://github.com/Cracked5pider/ShellcodeTemplate
 
 https://github.com/wavestone-cdt/EDRSandblast
 
+https://github.com/MrE-Fog/libhv
+
