@@ -215,5 +215,8 @@ https://github.com/Cracked5pider/ShellcodeTemplate
 
 https://github.com/wavestone-cdt/EDRSandblast
 
+## Windows TLS
+
 https://github.com/MrE-Fog/libhv
 
+https://github.com/laudrup/boost-wintls
