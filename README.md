@@ -173,6 +173,10 @@ https://github.com/HyperDbg/HyperDbg
 
 https://github.com/HyperDbg/gui
 
+https://github.com/leonardomsft/WMIMon-LucTalpe
+
+
+
 ## old things
 
 https://github.com/Darkabode/zerokit
