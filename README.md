@@ -197,6 +197,8 @@ https://github.com/WBGlIl/ReBeacon_Src
 
 https://github.com/Z3ratu1/geacon_plus
 
+https://github.com/H4de5-7/geacon_pro
+
 https://github.com/hfiref0x/UACME
 
 https://github.com/A-Normal-User/NtSocket_NtClient_NtServer
