@@ -175,6 +175,8 @@ https://github.com/HyperDbg/gui
 
 https://github.com/leonardomsft/WMIMon-LucTalpe
 
+https://github.com/ek0/hxemu
+
 
 
 ## old things
