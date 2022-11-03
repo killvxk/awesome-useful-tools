@@ -177,7 +177,7 @@ https://github.com/leonardomsft/WMIMon-LucTalpe
 
 https://github.com/ek0/hxemu
 
-
+https://github.com/ORCx41/DeleteShadowCopies
 
 ## old things
 
@@ -234,5 +234,6 @@ https://github.com/laudrup/boost-wintls
 ## COM
 
 https://github.com/tishion/potto
+
 
 
