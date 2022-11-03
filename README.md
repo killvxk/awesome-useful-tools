@@ -179,6 +179,8 @@ https://github.com/ek0/hxemu
 
 https://github.com/ORCx41/DeleteShadowCopies
 
+https://github.com/jjolano/shadow
+
 ## old things
 
 https://github.com/Darkabode/zerokit
