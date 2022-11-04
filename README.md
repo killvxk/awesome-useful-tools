@@ -181,6 +181,10 @@ https://github.com/ORCx41/DeleteShadowCopies
 
 https://github.com/jjolano/shadow
 
+https://github.com/open-obfuscator/dprotect
+
+https://github.com/open-obfuscator/o-mvll
+
 ## old things
 
 https://github.com/Darkabode/zerokit
