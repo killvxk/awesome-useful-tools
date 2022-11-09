@@ -185,6 +185,9 @@ https://github.com/open-obfuscator/dprotect
 
 https://github.com/open-obfuscator/o-mvll
 
+https://github.com/whokilleddb/exe_who
+
+
 ## old things
 
 https://github.com/Darkabode/zerokit
