@@ -237,6 +237,7 @@ https://github.com/wavestone-cdt/EDRSandblast
 
 https://github.com/crisprss/Extracted_WD_VDM
 
+https://github.com/winterknife/PINKPANTHER
 
 ## Windows TLS
 
