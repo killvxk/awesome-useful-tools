@@ -187,6 +187,7 @@ https://github.com/open-obfuscator/o-mvll
 
 https://github.com/whokilleddb/exe_who
 
+https://github.com/alfarom256/MCP-PoC
 
 ## old things
 
