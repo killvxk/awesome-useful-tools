@@ -239,6 +239,9 @@ https://github.com/crisprss/Extracted_WD_VDM
 
 https://github.com/winterknife/PINKPANTHER
 
+https://github.com/Ascotbe/Kernelhub
+
+
 ## Windows TLS
 
 https://github.com/MrE-Fog/libhv
