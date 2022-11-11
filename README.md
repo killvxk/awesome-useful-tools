@@ -195,6 +195,8 @@ https://github.com/go-sonic/sonic
 
 https://github.com/THUDM/CodeGeeX
 
+https://github.com/upscayl/upscayl
+
 
 ## old things
 
