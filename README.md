@@ -191,6 +191,10 @@ https://github.com/alfarom256/MCP-PoC
 
 https://github.com/Sanster/lama-cleaner
 
+https://github.com/go-sonic/sonic
+
+https://github.com/THUDM/CodeGeeX
+
 
 ## old things
 
