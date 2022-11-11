@@ -189,6 +189,9 @@ https://github.com/whokilleddb/exe_who
 
 https://github.com/alfarom256/MCP-PoC
 
+https://github.com/Sanster/lama-cleaner
+
+
 ## old things
 
 https://github.com/Darkabode/zerokit
