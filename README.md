@@ -252,6 +252,9 @@ https://github.com/Ascotbe/Kernelhub
 
 https://github.com/jart/cosmopolitan
 
+https://github.com/cnk3x/xunlei
+
+
 ## ssh dog is so cool
 
 https://github.com/msaf1980/sshdog
