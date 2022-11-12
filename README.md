@@ -280,5 +280,15 @@ https://github.com/laudrup/boost-wintls
 
 https://github.com/tishion/potto
 
+## cool
+
+https://github.com/jsherman212/iosdbg
+
+https://github.com/redplait/lkcd
+
+https://github.com/redplait/armpatched
+
+https://github.com/redplait/sw64proc
+
 
 
