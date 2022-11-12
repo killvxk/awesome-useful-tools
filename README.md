@@ -254,6 +254,8 @@ https://github.com/jart/cosmopolitan
 
 https://github.com/cnk3x/xunlei
 
+https://github.com/redplait/libecc
+
 
 ## ssh dog is so cool
 
