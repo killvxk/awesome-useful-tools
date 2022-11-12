@@ -250,6 +250,20 @@ https://github.com/winterknife/PINKPANTHER
 
 https://github.com/Ascotbe/Kernelhub
 
+https://github.com/jart/cosmopolitan
+
+## ssh dog is so cool
+
+https://github.com/msaf1980/sshdog
+
+https://github.com/Matir/sshdog
+
+https://github.com/hengwu0/sshdog
+
+https://github.com/NyaMisty/sshdog_ios
+
+https://github.com/JustinGrote/sshdog
+
 
 ## Windows TLS
 
