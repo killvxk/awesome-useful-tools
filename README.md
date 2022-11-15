@@ -212,6 +212,8 @@ https://github.com/Darkabode/android-possessor
 
 https://github.com/Darkabode/0lib
 
+https://github.com/ccdescipline/CInject
+
 ## haha
 
 https://github.com/WBGlIl/ReBeacon_Src
