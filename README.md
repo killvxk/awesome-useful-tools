@@ -256,6 +256,10 @@ https://github.com/cnk3x/xunlei
 
 https://github.com/redplait/libecc
 
+https://github.com/ZeroLP/ZeroKernel
+
+https://github.com/VollRagm/KernelSharp
+
 
 ## ssh dog is so cool
 
