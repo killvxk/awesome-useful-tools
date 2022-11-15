@@ -260,6 +260,8 @@ https://github.com/ZeroLP/ZeroKernel
 
 https://github.com/VollRagm/KernelSharp
 
+https://github.com/VollRagm/KernelBypassSharp
+
 https://github.com/ZeroLP/ZVM
 
 
