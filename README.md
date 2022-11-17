@@ -281,6 +281,8 @@ https://github.com/NyaMisty/sshdog_ios
 
 https://github.com/JustinGrote/sshdog
 
+https://github.com/forderud/WindowsClientAuth
+
 
 ## Windows TLS
 
