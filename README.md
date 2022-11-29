@@ -268,6 +268,7 @@ https://github.com/ZeroLP/ZVM
 
 https://github.com/reveng007/reveng_rtkit
 
+https://github.com/redballoonsecurity/ofrak
 
 ## ssh dog is so cool
 
