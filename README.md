@@ -270,6 +270,8 @@ https://github.com/reveng007/reveng_rtkit
 
 https://github.com/redballoonsecurity/ofrak
 
+https://github.com/skerkour/black-hat-rust
+
 ## ssh dog is so cool
 
 https://github.com/msaf1980/sshdog
