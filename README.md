@@ -313,6 +313,8 @@ https://github.com/cs1ime/sehcall
 
 https://github.com/WPeace-HcH/SysNR-FuncFinder
 
+https://github.com/JusticeRage/Gepetto
+
 
 
 
