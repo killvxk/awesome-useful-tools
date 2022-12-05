@@ -311,5 +311,9 @@ https://github.com/redplait/sw64proc
 
 https://github.com/cs1ime/sehcall
 
+https://github.com/WPeace-HcH/SysNR-FuncFinder
+
+
+
 
 
