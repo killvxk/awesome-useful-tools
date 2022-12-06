@@ -319,8 +319,7 @@ https://github.com/knight0x07/BumbleCrypt
 
 https://github.com/marcinguy/fpicker-aflpp-android
 
-
-
+https://github.com/SEVulDet/SEVulDet
 
 
 
