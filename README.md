@@ -325,6 +325,8 @@ https://github.com/DearXiaoGui/InfinityHookPro-main
 
 https://github.com/pietroborrello/CustomProcessingUnit
 
+https://github.com/SunWeb3Sec/DeFiVulnLabs
+
 
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
