@@ -327,6 +327,7 @@ https://github.com/pietroborrello/CustomProcessingUnit
 
 https://github.com/SunWeb3Sec/DeFiVulnLabs
 
+https://github.com/bb107/MemoryModulePP
 
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
