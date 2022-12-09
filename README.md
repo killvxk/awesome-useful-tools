@@ -323,6 +323,8 @@ https://github.com/SEVulDet/SEVulDet
 
 https://github.com/DearXiaoGui/InfinityHookPro-main
 
+https://github.com/pietroborrello/CustomProcessingUnit
+
 
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
