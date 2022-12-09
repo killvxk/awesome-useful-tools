@@ -321,6 +321,9 @@ https://github.com/marcinguy/fpicker-aflpp-android
 
 https://github.com/SEVulDet/SEVulDet
 
+https://github.com/DearXiaoGui/InfinityHookPro-main
+
+
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
 
