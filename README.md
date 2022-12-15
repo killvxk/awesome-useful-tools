@@ -199,6 +199,8 @@ https://github.com/upscayl/upscayl
 
 https://github.com/c-bata/xpcap
 
+https://github.com/dbgsymbol/getsymbol
+
 
 ## old things
 
