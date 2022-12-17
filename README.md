@@ -343,4 +343,8 @@ https://github.com/DymOK93/KTL
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
 
+## Hash 
+
+https://github.com/Neo23x0/munin
+
 
