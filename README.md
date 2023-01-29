@@ -2,6 +2,7 @@
 red or blue
 
 # tools
+https://github.com/doudoudedi/hackEmbedded
 
 https://codeql.github.com/docs/codeql-overview/
 
