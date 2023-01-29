@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/GoSecure/pyrdp
+
 https://github.com/doudoudedi/hackEmbedded
 
 https://codeql.github.com/docs/codeql-overview/
