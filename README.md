@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/SergiusTheBest/FindWDK
+
 https://github.com/GoSecure/pyrdp
 
 https://github.com/doudoudedi/hackEmbedded
