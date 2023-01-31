@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/mindsdb/mindsdb
+
 https://github.com/paranoidninja/Proxy-Function-Calls-For-ETwTI
 
 https://github.com/HoShiMin/Arch
