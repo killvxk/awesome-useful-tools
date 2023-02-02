@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/Eugeny/tabby
+
 https://github.com/Jackarain/proxy
 
 https://github.com/Kwansy98/EasyPdb
