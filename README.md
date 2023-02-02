@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/Jackarain/proxy
+
 https://github.com/Kwansy98/EasyPdb
 
 https://github.com/mindsdb/mindsdb
