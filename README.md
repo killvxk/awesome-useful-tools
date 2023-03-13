@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/OmriBaso/RToolZ
+
 https://github.com/Eugeny/tabby
 
 https://github.com/Jackarain/proxy
