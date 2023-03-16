@@ -366,4 +366,62 @@ https://github.com/eladshamir/RPC-Backdoor
 
 https://github.com/Neo23x0/munin
 
+## VMProtect Zone
+
+https://github.com/killvxk/VMProtect-3-5-DEvirt
+
+https://github.com/eaglx/VirtualMachineObfuscationPoC
+
+## botnet
+
+https://github.com/malwaredllc/byob  
+
+https://github.com/maestron/botnets
+
+https://github.com/in-future-world/All-Hacking-Tools
+
+https://www.extremenetworks.com/extreme-networks-blog/understanding-the-basic-functions-of-botnets/
+
+https://thehackernews.com/2021/01/freakout-ongoing-botnet-attack.html?m=1
+
+http://books.gigatux.nl/mirror/honeypot/final/ch11lev1sec3.html
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5940715/
+
+https://www.totem.tech/malware-as-a-service/
+
+https://www.ieee-security.org/Cipher/BookReviews/2008/Provos_by_austin.html
+
+https://github.com/UBoat-Botnet/UBoat
+
+https://github.com/SaturnsVoid/GoBot2
+
+https://github.com/alexfrancow/badusb_botnet
+
+https://github.com/0x4meliorate/toxnet
+
+https://github.com/Kn0wl3dge/mozitools
+
+https://github.com/Blaumaus/rust_botnet
+
+https://github.com/phanletrunghieu/bot-net
+
+https://github.com/Cgboal/C2-Framework
+
+https://github.com/derp-all-day/JSBot
+
+https://github.com/fuwn/net
+
+https://github.com/shishir610/botnet-visualizer
+
+https://github.com/G0uth4m/SSH-botnet
+
+https://github.com/binexisHATT/Red-C-C
+
+https://github.com/braineering/ares
+
+https://github.com/noobprogammier/botnet
+
+
+
 
