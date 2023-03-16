@@ -372,6 +372,9 @@ https://github.com/killvxk/VMProtect-3-5-DEvirt
 
 https://github.com/eaglx/VirtualMachineObfuscationPoC
 
+https://github.com/sh4m2hwz/devirt_vmprotect3
+
+
 ## botnet
 
 https://github.com/malwaredllc/byob  
