@@ -433,5 +433,10 @@ https://github.com/noobprogammier/botnet
 
 https://github.com/epasveer/seer
 
+## rootkit
+
+https://github.com/XaFF-XaFF/Black-Angel-Rootkit
+
+https://github.com/not-wlan/driver-hijack
 
 
