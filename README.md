@@ -361,6 +361,7 @@ https://github.com/Bw3ll/sharem
 
 https://github.com/DymOK93/KTL
 
+https://github.com/zouxianyu/query-pdb
 
 ## RPC
 https://github.com/eladshamir/RPC-Backdoor
