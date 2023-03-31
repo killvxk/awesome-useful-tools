@@ -440,4 +440,9 @@ https://github.com/XaFF-XaFF/Black-Angel-Rootkit
 
 https://github.com/not-wlan/driver-hijack
 
+## old skills
+
+https://github.com/ExpLife0011/AfdProxy
+
+
 
