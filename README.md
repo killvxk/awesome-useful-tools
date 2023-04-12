@@ -239,6 +239,8 @@ https://github.com/ccdescipline/CInject
 
 https://github.com/killvxk/DeviceDetect
 
+https://github.com/killvxk/zerosum0x0-archive
+
 
 ## haha
 
