@@ -2,6 +2,8 @@
 red or blue
 
 # tools
+https://github.com/LAK132/lak
+
 https://github.com/staticafi/llvm2c
 
 https://github.com/OmriBaso/RToolZ
